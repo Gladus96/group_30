@@ -37,8 +37,8 @@
 Cкопировать любые 2 файла, которые вы создали, в любую другую папку 
  cp D:QA_Test/one_papka/file2.txt D:QA_Test/one_papka/file3.txt D:QA_Test/three_papka
 
-Найти файл по имени - find . 
-name file1.txt
+Найти файл по имени  
+find . name file1.txt
 
 Просмотреть содержимое в реальном времени (команда grep) изучите как она работает 
  grep  D:QA_Test/one_papka/file1.txt
